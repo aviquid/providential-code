@@ -17,7 +17,7 @@ function Example() {
 }
 
 // Click on show alert button, then click on "click me" button multiple times. What's the value of count in Alert??
-// Check - https://codesandbox.io/s/88m334l31l
+// NTTC (No time to code), then check - https://codesandbox.io/s/88m334l31l
 
 // SURPRISED?
 // Solution - https://codesandbox.io/embed/qzj2nqvzyj
